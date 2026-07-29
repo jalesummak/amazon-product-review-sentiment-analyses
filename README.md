@@ -2,6 +2,10 @@
 
 A nlp project developed in Python as part of a data science portfolio.
 
+## Why I built this project
+
+I built this project to extract useful signals from unstructured text and evaluate practical NLP modeling approaches.
+
 ## Overview
 
 This repository demonstrates an end-to-end data science workflow, including exploration, preprocessing, modeling, and evaluation where applicable.
